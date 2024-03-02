@@ -1,0 +1,18 @@
+.intro{
+    text-align: center;
+}
+
+.intro.home h1{
+    background-color: aqua;
+    font-family: 'Times New Roman''Brush Script MT''Lucida Sans';
+    font-size: xx-large; 
+}
+
+.ingredients{
+    background-color:rgb(255, 255, 201);
+}
+
+.ingredients h2{
+    color: blue;
+}
+
