@@ -1,5 +1,17 @@
-.intro{
+*{
+    border: red 1px solid;
+}
+
+body {
+    max-width: 450px;
+    margin: 0px auto;
     text-align: center;
+}
+
+.intro.home img{
+    width: 100%;
+    height: auto;
+
 }
 
 .intro.home h1{
@@ -16,3 +28,18 @@
     color: blue;
 }
 
+
+.recipes{
+    list-style-type: none;
+    padding: 0px;
+    text-align: center;
+
+}
+
+
+.button{
+    margin: 1.5em;
+    padding: 1.5em;
+    background-color: rgba(0, 255, 255, 0.295);
+    
+}
